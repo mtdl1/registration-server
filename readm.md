@@ -33,3 +33,4 @@ Após realizar a criação do projeto Front-End para o Cadastro de Usuários, fo
 - Email: mateusdubovicky@hotmail.com
 - LinkedIn: [Mateus Dubovicky](https://www.linkedin.com/in/mateus-dubovicky/)
 - WhatsApp: [+55 (19) 99818-5588](https://wa.me/5519998185588?text=Vim%20pelo%20Readme)
+
